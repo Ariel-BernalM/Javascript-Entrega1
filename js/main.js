@@ -1,9 +1,9 @@
 const juegos = [
-  { nombre: "Producto A", precio: 30 },
-  { nombre: "Producto B", precio: 50 },
-  { nombre: "Producto C", precio: 70 },
-  { nombre: "Producto D", precio: 50 },
-  { nombre: "Producto E", precio: 50 },
+  { nombre: "God Of War", precio: 30 },
+  { nombre: "Mario Galaxy", precio: 50 },
+  { nombre: "Doom Eternal", precio: 50 },
+  { nombre: "Halo Infinite", precio: 50 },
+  { nombre: "Mario Kart 8", precio: 50 },
 ];
 
 let carrito = [];
